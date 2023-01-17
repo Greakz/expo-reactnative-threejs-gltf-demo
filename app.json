@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3416fdb2-81dc-47ab-ac8b-5163bef15069"
+      }
+    },
+    "owner": "greakz"
   }
 }
